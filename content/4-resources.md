@@ -3,7 +3,7 @@ title: Organizers
 nav: Organizers
 ---
 
-<img src = "/Collective_States_in_Multimodal_Interaction/content/images/Misu.jpg" alt="Teruhisa Misu" width = "200">
+{% include figure.html img="Misu.jpg" alt="Misu" caption="Library workshop" width="50%" %}
 **Teruhisa Misu**
 Chief Scientist, Honda Research Institute USA (HRI-US). Teruhisa Misu received his Ph.D. in Informatics from Kyoto University in 2008. He leads a research team on human-centered intelligence and multimodal human–machine interaction at HRI-US. His work spans dialogue systems, multimodal interfaces, and understanding human states.
 
