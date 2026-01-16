@@ -1,3 +1,8 @@
+---
+title: Organizers
+nav: Organizers
+---
+
 # Organizers
 <img src = "/images/Misu.jpg" alt="Teruhisa Misu" width = "200">
 **Teruhisa Misu**
